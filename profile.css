@@ -1,0 +1,15 @@
+img{
+    height: 200px;
+    width: 300px; 
+    border-radius: 50%;
+}
+h1{
+    text-align: center  ;
+}
+.image_warpper{
+    text-align: center;
+}
+body{
+    padding-top: 5%;
+    background-color: bisque                                                                                                                                                                      ;
+}
